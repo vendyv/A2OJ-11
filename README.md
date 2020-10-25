@@ -7,7 +7,7 @@ This repository is to keep record of my solutions of the problems from A2OJ Ladd
 - [x] https://www.a2oj.com/ladder?ID=11
 
 
-This ladder has really been helpful to get me started with competitive programming. I can see my code evolve from first 20 problems to last 20 problems and it is pretty different ever since then. 
+This ladder has really been helpful to get me started with competitive programming. I can see my code evolve from first 20 problems to last 20 problems and it has become pretty different ever since then. :computer:
 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
