@@ -9,3 +9,5 @@ This repository is to keep record of my solutions of the problems from A2OJ Ladd
 
 This ladder has really been helpful to get me started with competitive programming. I can see my code evolve from first 20 problems to last 20 problems and it is pretty different ever since then. 
 
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
